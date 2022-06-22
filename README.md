@@ -1,5 +1,5 @@
 # login_page
-Simple login page using HTML/CSS
+A login page with forget password functionality made using HTML/CSS. The page also includes a stylish navigation bar which the user can use to switch between different pages.
 
 ## Program Output
 ![](Output/loginpage.png) 
